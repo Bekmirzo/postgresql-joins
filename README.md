@@ -15,6 +15,7 @@
 1. create_table.sql
 2. cars.sql
 3. users.sql
+
 ![alt img](https://raw.githubusercontent.com/Bekmirzo/postgresql-joins/main/src/public/index/sql.PNG)
 
 ### 4. Run `node ./src/app.js` on terminal
