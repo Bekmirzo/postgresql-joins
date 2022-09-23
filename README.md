@@ -18,3 +18,4 @@
 ### 4. Run `node ./src/app.js` on terminal
 ### 5. Open in browser `localhost`:PORT 
 ##### open console to see port
+![alt img](https://raw.githubusercontent.com/Bekmirzo/postgresql-joins/main/src/public/index/port.PNG)
