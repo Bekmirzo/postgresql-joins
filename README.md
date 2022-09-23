@@ -9,6 +9,7 @@
     DB_PASSWORD=PostgreSQL.user.pass    // postgres user password 
     DB_NAME=database.name               // your database name
     PORT=80                             //can be any empt port....
+![alt img](https://raw.githubusercontent.com/Bekmirzo/postgresql-joins/main/src/public/index/env.PNG)
 ### 3. Run this sql files on your PostgreSQL server:
 ##### Files in `./src/db/`
 1. create_table.sql
