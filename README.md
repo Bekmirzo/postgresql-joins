@@ -11,10 +11,11 @@
     PORT=80                             //can be any empt port....
 ![alt img](https://raw.githubusercontent.com/Bekmirzo/postgresql-joins/main/src/public/index/env.PNG)
 ### 3. Run this sql files on your PostgreSQL server:
-##### Files in `./src/db/`
+##### Files in `./sql/`
 1. create_table.sql
 2. cars.sql
 3. users.sql
+![alt img](https://raw.githubusercontent.com/Bekmirzo/postgresql-joins/main/src/public/index/sql.PNG)
 
 ### 4. Run `node ./src/app.js` on terminal
 ### 5. Open in browser `localhost`:PORT 
